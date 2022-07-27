@@ -24,7 +24,9 @@
 <br>
 
 ## Contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sousa/)
+<div style="display: inline_block">
+    <a alt="LinkedIn" href="https://www.linkedin.com/in/leonardo-sousa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a>
+</div>
 <br>
 
 
