@@ -5,7 +5,7 @@
 
 [![Leonardo Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leosousa&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats)](https://github.com/leosousa)
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leosousa&custom_title=Linguagens%20mais%20utilizadas&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leosousa&custom_title=Linguagens%20mais%20utilizadas&theme=github_dark)](https://github.com/leosousa)
 
 ## Backend
 <div style="display: inline_block">
@@ -24,9 +24,7 @@
 <br>
 
 ## Contatos
-<div style="display: inline_block">
-    <a alt="LinkedIn" href="https://www.linkedin.com/in/leonardo-sousa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sousa)
 <br>
 
 
