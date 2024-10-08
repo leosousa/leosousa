@@ -3,9 +3,8 @@
 Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor desde 2010. Tenho convicção de que programação e tecnologia são ferramentas poderosas para criar soluções que liberam mais tempo para as pessoas se dedicarem aos seus verdadeiros propósitos e famílias. Tem uma ideia que precisa de ajuda? Vamos programar! 🚀
 <br />
 
-[![Leonardo Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leosousa&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats)](https://github.com/leosousa)
-
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leosousa&custom_title=Linguagens%20mais%20utilizadas&theme=github_dark)](https://github.com/leosousa)
+ ![Leonardo Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leosousa&show_icons=true&theme=github_dark) | ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leosousa&theme=github_dark) |
+|:---:|:---:|
 
 ## Backend
 <div style="display: inline_block; padding-right: 100;">
