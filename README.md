@@ -1,6 +1,6 @@
-### Olá, eu sou o Leonardo Sousa 👋
+# Olá, eu sou o Leonardo Sousa 👋
 
-### Acredito que através de tecnologia e programação podemos melhorar a vida das pessoas e das nações ao redor do mundo. Vamos programar? 🚀
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor desde 2010. Tenho convicção de que programação e tecnologia são ferramentas poderosas para criar soluções que liberam mais tempo para as pessoas se dedicarem aos seus verdadeiros propósitos e famílias. Tem uma ideia que precisa de ajuda? Vamos programar! 🚀
 <br />
 
 [![Leonardo Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leosousa&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats)](https://github.com/leosousa)
@@ -8,23 +8,34 @@
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leosousa&custom_title=Linguagens%20mais%20utilizadas&theme=github_dark)](https://github.com/leosousa)
 
 ## Backend
-<div style="display: inline_block">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<div style="display: inline_block; padding-right: 100;">
+    <img alt="C#" title="C#" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" />
+    <img alt="TypeScript" title="TypeScript" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" />
+    <img alt="NodeJs" title="NodeJs" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" />
+    <img alt="Python" title="Python" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" />
 </div>
 <br>
 
+## Frontend
+<div style="display: inline_block; padding-right: 100;">
+    <img alt="Angular" title="Angular" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg" />
+</div>
+
 ## Bancos de dados
 <div style="display: inline_block">
-    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="PostGres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="SQL Server" title="SQL Server" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    <img alt="MySql" title="MySql" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" />
+    <img alt="PostgreSQL" title="PostgreSQL" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" />
+    <img alt="MongoDB" title="MongoDB" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" />
 </div>
 <br>
 
 ## Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sousa)
+<div style="display: inline_block">
+    <a href="https://www.linkedin.com/in/leonardo-sousa">
+    <img alt="LinkedIn" title="LinkedIn" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" />
+    </a>
+</div>
 <br>
 
 
