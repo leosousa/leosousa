@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonardo Sousa 👋
+# Olá! Sou o Leonardo Sousa 👋
 
 Formado em Análise e Desenvolvimento de Sistemas, atuo como desenvolvedor desde 2010. Tenho convicção de que programação e tecnologia são ferramentas poderosas para criar soluções que permitem as pessoas se dedicarem aos seus propósitos e famílias. Tem uma ideia que precisa de ajuda? Vamos programar! 🚀
 <br />
