@@ -1,10 +1,20 @@
 # Olá, eu sou o Leonardo Sousa 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor desde 2010. Tenho convicção de que programação e tecnologia são ferramentas poderosas para criar soluções que liberam mais tempo para as pessoas se dedicarem aos seus verdadeiros propósitos e famílias. Tem uma ideia que precisa de ajuda? Vamos programar! 🚀
+Formado em Análise e Desenvolvimento de Sistemas, atuo como desenvolvedor desde 2010. Tenho convicção de que programação e tecnologia são ferramentas poderosas para criar soluções que permitem as pessoas se dedicarem aos seus propósitos e famílias. Tem uma ideia que precisa de ajuda? Vamos programar! 🚀
 <br />
 
  ![Leonardo Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leosousa&show_icons=true&theme=github_dark) | ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leosousa&theme=github_dark) |
 |:---:|:---:|
+
+## Stack Principal
+<div style="display: inline_block; padding-right: 100;">
+ <img alt="Asp.Net" title="Asp.Net" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dotnetcore/dotnetcore-original.svg" />
+ <img alt="C#" title="C#" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" />
+ <img alt="SQL Server" title="SQL Server" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+ <img alt="Azure" title="Azure" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azuredevops/azuredevops-original.svg" />
+ 
+</div>
+<br>
 
 ## Backend
 <div style="display: inline_block; padding-right: 100;">
